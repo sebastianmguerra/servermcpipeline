@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "go1.26.5.windows-amd64.msi"
-hash = "d554dc209403b101225fc2b54647ef47df09bea23291b1246fe1b35198f55f50"
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "5cbcd9395c1788ed7a1356e392a4483a30d903312faffd9795c6dee9afba3fac"
 metafile = true
