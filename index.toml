@@ -15,10 +15,5 @@ hash = "c8695e51366b601c5e9118a5d5650d234cc25fc8d1f90ebd186c17c199ba7fca"
 metafile = true
 
 [[files]]
-file = "mods/nedologin.pw.toml"
-hash = "eabfa243bedd8bac0dca4a4327a99626b5b8627d6dd7b12e14ca6140605ba230"
-metafile = true
-
-[[files]]
 file = "packwiz-installer-bootstrap.jar"
 hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
