@@ -1,0 +1,13 @@
+name = "lloromc"
+author = "chech"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a9067c222af5b8259b4f3cc28a534d64a98d7ef01bdc5a11e5cc2780a0355dbc"
+
+[versions]
+fabric = "0.19.3"
+minecraft = "1.20.1"

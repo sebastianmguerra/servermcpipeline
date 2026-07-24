@@ -1,0 +1,13 @@
+name = "Nedologin"
+filename = "nedologin-3.0.0-rc3-1.20.1-fabric-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fnP1u8PK/versions/qZfwOJ5w/nedologin-3.0.0-rc3-1.20.1-fabric-forge.jar"
+hash-format = "sha512"
+hash = "0c47064d892874c9952283d9f238d58d1011bc0ba4ac693332b9ec00b309becdef83e5c6f9ac572e1c08ef75d7f03baf4f2f4128d07941a59c5f4f463049a2c9"
+
+[update]
+[update.modrinth]
+mod-id = "fnP1u8PK"
+version = "qZfwOJ5w"

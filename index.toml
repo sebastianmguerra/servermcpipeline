@@ -1,0 +1,24 @@
+hash-format = "sha256"
+
+[[files]]
+file = "go1.26.5.windows-amd64.msi"
+hash = "d554dc209403b101225fc2b54647ef47df09bea23291b1246fe1b35198f55f50"
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "5cbcd9395c1788ed7a1356e392a4483a30d903312faffd9795c6dee9afba3fac"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "c8695e51366b601c5e9118a5d5650d234cc25fc8d1f90ebd186c17c199ba7fca"
+metafile = true
+
+[[files]]
+file = "mods/nedologin.pw.toml"
+hash = "eabfa243bedd8bac0dca4a4327a99626b5b8627d6dd7b12e14ca6140605ba230"
+metafile = true
+
+[[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
